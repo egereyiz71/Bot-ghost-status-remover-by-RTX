@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Infinity Software","Infinity Software"];
+const statusMessages = ["Infinity","Software","SCP:SL Software];
 
 
 let currentIndex = 0;
