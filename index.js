@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Infinity","Software","SCP:SL Software];
+const statusMessages = ["Infinity Software Tarafindan Gelistirildi"];
 
 
 let currentIndex = 0;
