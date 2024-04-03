@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Infinity Software Tarafindan Gelistirildi"];
+const statusMessages = ["haha"];
 
 
 let currentIndex = 0;
