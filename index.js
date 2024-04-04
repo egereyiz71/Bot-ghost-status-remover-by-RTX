@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Infinity"];
+const statusMessages = ["Infinity","Studios"];
 
 
 let currentIndex = 0;
