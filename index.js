@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [// Made by Infinity Studios","Infinity Studios Tarafindan Gelistirildi.];
+const statusMessages = [Infinity ","Studios];
 
 
 let currentIndex = 0;
